@@ -1,7 +1,8 @@
-# metis-data-science-intro
+# Intro to Data Science Using Python with Charles Givre 
 ## Let's set up your computer!
 ### Step 1: Install Anaconda.
-Anaconda from Continuum Analytics provides virtually everything you need to get started in data science. Go to https://continuum.io/downloads and follow the instructions in the website - they vary per platform.  **Please install the version for Python 3.** 
+Anaconda from Continuum Analytics provides virtually everything you need to get started in data science. Go to https://continuum.io/downloads and follow the instructions in the website - they vary per platform.
+**Please install the version for Python 3.** 
 ### Step 2: Install Git (optional)
 You'll need a command line prompt to launch Anaconda's Jupyter Notebooks for this lesson. We recommend Git in case you're interested in version control or cloud deployment in the future. Go to http://git-scm.com/downloads and follow the directions there.
 ### Step 3: Activate your Jupyter Notebook
