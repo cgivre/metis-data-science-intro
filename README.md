@@ -1,3 +1,4 @@
+<img src="img/metis_logo.png" align="left" height=229 width=256 />
 # Intro to Data Science Using Python with Charles Givre 
 ## Let's set up your computer!
 ### Step 1: Install Anaconda.
