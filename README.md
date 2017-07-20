@@ -11,10 +11,11 @@ You'll need a command line prompt to launch Anaconda's Jupyter Notebooks for thi
 We're going to use Jupyter, formerly known as IPython, which is short for “Interactive Python.” This is a way for you to code within a browser in a faster, interactive way.
 * Open your terminal prompt and type `git clone https://github.com/cgivre/metis-data-science-intro`.  This will copy the contents of this repository onto your machine.
 * Navigate to your working directory
-* Type `jupyter notebook` into the prompt
-* Some computation should happen...
+* Type `jupyter notebook` into the prompt and some computation should happen.
+![Alt text](./img/starting_jupyter_notebook.png "Starting Jupyter Notebook")
 * Go to your browser and type in this URL: http://localhost:8888/ (this may launch anyway)
 If you see a new browser tab pop up, create a "New" notebook in the top right corner. Let's get started!
+![Alt text](./img/jupyter_notebook.png "Jupyter Notebook")
 
 ## Instructor
 <img align="left" src="./img/csg.jpg">Charles Givre has always been interested solving problems in unique ways, and has worked to make a career of it as a data scientist at Booz Allen Hamilton. At Booz Allen, Mr. Givre worked as a technical leader on various large government projects. Mr. Givre enjoys sharing his passion for data science with others and has worked to develop comprehensive data science training programs at his firm. Prior to joining Booz Allen, Mr. Givre worked as a counterterrorism analyst at the Central Intelligence Agency for nearly five years.
